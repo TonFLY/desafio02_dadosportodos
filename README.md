@@ -1,6 +1,6 @@
 # Desafio técnico 02 — ETL Simples com Dados de Táxi de NYC
 
-![Pipeline](https://raw.githubusercontent.com/TonFLY/desafio02_dadosportodos/master/assets/ingestão.png)
+![Pipeline](https://raw.githubusercontent.com/TonFLY/desafio02_dadosportodos/master/assets/Ingest%C3%A3o.jpg)
 
 Dados por Todos - [Linkedin do Ecossistema](https://www.linkedin.com/company/dadosportodos/) 
 
