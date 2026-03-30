@@ -8,6 +8,8 @@ Venha fazer parte do Ecossistema - [Formulário de inscrição](https://docs.goo
 
 Fonte dos dados - [Kaggle](https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data)
 
+Demo - [Dashboard](https://dashboard1.tonfly.cloud/)
+
 ---
 
 ## Objetivo
